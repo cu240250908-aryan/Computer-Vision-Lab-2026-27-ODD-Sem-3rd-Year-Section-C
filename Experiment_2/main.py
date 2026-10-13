@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load image
-img = cv2.imread("images/images(1).jpg")
+img = cv2.imread("img2.jpg")
 
 
 # Convert image to grayscale
